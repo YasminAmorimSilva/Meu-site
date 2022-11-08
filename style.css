@@ -28,12 +28,9 @@
 }
 
 body {
-   background:rgb(72, 206, 154);
+    background:rgb(10, 185, 133); 
 }
 
-#watercolor-pink-flower-bouquet-collection {
-    font-weight: 30%;
-}
 
 .principal {
    
@@ -87,6 +84,12 @@ strong {
     color: white ;
 }
 
+.imagemprincipal {
+   width: 90%;  
+   margin: 60px;
+   box-shadow: 30px 30px 40px rgb(3, 255, 116);
+}
+
 .significados {
    
     padding-top: 20px;
@@ -99,14 +102,16 @@ ul {
    vertical-align: top;
    width: 90%;
    text-align: center;
-   
-   
 
 }
 
-
+.imgfinal {
+   width: 90%;  
+   margin: 60px;
+   box-shadow: 30px 30px 40px rgb(3, 255, 116);
+}
 .pé {
-   background: rgb(28, 231, 136);
+   background: rgb(28, 231, 136px);
    margin-inline: 0;
    padding:30px;
    font-size: smaller;
